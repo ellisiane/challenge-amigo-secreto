@@ -92,6 +92,8 @@ body {
     justify-content: center;
 }
 
+
+
 /* Estilos de entrada de texto */
 .input-title {
     flex: 1;
@@ -147,7 +149,7 @@ ul {
     display: flex;
     align-items: center;
     width: 100%;
-    padding: 10px 40px;
+    padding: 15px 30px;
     color: var(--color-white);
     background-color: var(--color-button);
     font-size: 16px;
@@ -160,3 +162,20 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.button-reset {
+    background-color: #fe652b; /* Fundo laranja */
+    color: #fff;               /* Texto branco */
+    border: 2px solid #000;    /* borda de 2 pixels de espessura, com estilo sólido e cor preta*/
+    padding: 10px 20px;        /* Espaçamento interno */
+    margin: 10px;              /* Espaçamento externo */
+    border-radius: 5px;        /* Bordas arredondadas */
+    font-size: 16px;           /* Tamanho da fonte */
+    cursor: pointer;           /* Cursor de mão */
+    transition: background-color 0.3s ease; /* Transição suave no hover */
+
+  }
+  
+
+
+
