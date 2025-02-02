@@ -2,7 +2,6 @@
 
 Este repositório contém o código para o desafio do amigo secreto proposto no curso Alura - One (Oracle Next Education). O objetivo do desafio é criar um programa que permita aos usuários adicionar nomes de amigos, realizar um sorteio aleatório e exibir o resultado.
 
-![Texto alternativo]([/assets/play_circle_outline.png](https://github.com/ellisiane/challenge-amigo-secreto/blob/main/assets/amigo-secreto.png))
 
 ## Funcionalidades
 
